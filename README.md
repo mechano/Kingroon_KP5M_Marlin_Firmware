@@ -2,6 +2,7 @@
 Marlin firmware for Kingroon KP5M 3D printer
 
 Two versions available for 3D-Touch and stock with Manual Bed Leveling.
+Octoprint friendly with HOST_ACTION_COMMANDS active.
 
 Download zip file in Releases section and select the right version, MBL for Manual Bed Leveling and ABL for Autmated Bed Leveling with 3D-Touch.
 
